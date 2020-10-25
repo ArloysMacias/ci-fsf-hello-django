@@ -26,7 +26,7 @@ SECRET_KEY = 'y0r()ut_e)3dw_!(odl-d2+1xvgq0hvm!j7y!8poit2+lf9c+!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['code-institute-todo-app.herokuapp.com']
 
 
 # Application definition
